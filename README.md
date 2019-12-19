@@ -11,6 +11,10 @@
 
 ![微信扫一扫\n关注该公众号](https://huibunny.com/image/qrcode.jpg)
 
+## 微信扫码进群
+
+![微信扫码进群](https://huibunny.com/image/huibunny.png)
+
 ## 往期文章
 
 * [养男孩，妈妈绝不能软](https://huibunny.com/pages/2019/10/19.html)
